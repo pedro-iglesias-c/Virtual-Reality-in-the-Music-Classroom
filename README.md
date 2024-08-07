@@ -1,1 +1,2 @@
-Código Código de R Studio y datos que complementan la publicación Iglesias, P. y Chávez, P. En prensa. Exploración de los Efectos Motivacionales de la Realidad Virtual en la Educación Musical: Un Estudio Cuasiexperimental, Revista Colombiana de Educación
+Código  de R Studio y datos que complementan la publicación Iglesias, P. y Chávez, P. En prensa. Exploración de los Efectos Motivacionales de la Realidad Virtual en la Educación Musical: Un Estudio Cuasiexperimental, Revista Colombiana de Educación
+Se presentan los datos obtenidos de las diversas mediciones, así como el código en R utilizado para el cálculo de estadísticos y la generación de gráficos que aparecen en la publicación.
